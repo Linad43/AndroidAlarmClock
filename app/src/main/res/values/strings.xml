@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">AndroidAlarmClock</string>
     <string name="exit">Выход</string>
+    <string name="alarmOff">Выключить будильник</string>
+    <string name="setAlarm">Установить будильник</string>
 </resources>
